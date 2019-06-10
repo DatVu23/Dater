@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dater/static/css/main.b4e41081.chunk.css",
+    "main.js": "/dater/static/js/main.d704c0d6.chunk.js",
+    "main.js.map": "/dater/static/js/main.d704c0d6.chunk.js.map",
+    "runtime~main.js": "/dater/static/js/runtime~main.6c916518.js",
+    "runtime~main.js.map": "/dater/static/js/runtime~main.6c916518.js.map",
+    "static/js/2.b8c4cbcf.chunk.js": "/dater/static/js/2.b8c4cbcf.chunk.js",
+    "static/js/2.b8c4cbcf.chunk.js.map": "/dater/static/js/2.b8c4cbcf.chunk.js.map",
+    "index.html": "/dater/index.html",
+    "precache-manifest.f236fe7bbbbd069b8778ce47fba37af0.js": "/dater/precache-manifest.f236fe7bbbbd069b8778ce47fba37af0.js",
+    "service-worker.js": "/dater/service-worker.js",
+    "static/css/main.b4e41081.chunk.css.map": "/dater/static/css/main.b4e41081.chunk.css.map"
+  }
+}
