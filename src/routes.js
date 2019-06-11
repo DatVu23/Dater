@@ -8,6 +8,7 @@ import Notifications from "@material-ui/icons/Notifications";
 import Unarchive from "@material-ui/icons/Unarchive";
 import Language from "@material-ui/icons/Language";
 // core components/views for Admin layout
+import About from "about/About.js"
 import DashboardPage from "views/Dashboard/Dashboard.jsx";
 import UserProfile from "views/UserProfile/UserProfile.jsx";
 import TableList from "views/TableList/TableList.jsx";
@@ -15,11 +16,12 @@ import Typography from "views/Typography/Typography.jsx";
 import Icons from "views/Icons/Icons.jsx";
 import Maps from "views/Maps/Maps.jsx";
 import NotificationsPage from "views/Notifications/Notifications.jsx";
+import Users from "users/Users"
 // core components/views for RTL layout
 import RTLPage from "views/RTLPage/RTLPage.jsx";
 
 const dashboardRoutes = [
-  {
+  /*{
     path: "/dashboard",
     name: "Dashboard",
     rtlName: "لوحة القيادة",
@@ -41,6 +43,20 @@ const dashboardRoutes = [
     rtlName: "قائمة الجدول",
     icon: "content_paste",
     component: TableList,
+    layout: "/admin"
+  },*/
+  {
+    path: "/about",
+    name: "About",
+    icon: "about",
+    component: About,
+    layout: "/admin"
+  },
+  {
+    path: "/listUser",
+    name: "Users",
+    icon: "us",
+    component: Users,
     layout: "/admin"
   },
   // {
