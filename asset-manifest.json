@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dater/static/css/main.754038a1.chunk.css",
+    "main.js": "/dater/static/js/main.cd7b2734.chunk.js",
+    "main.js.map": "/dater/static/js/main.cd7b2734.chunk.js.map",
+    "runtime~main.js": "/dater/static/js/runtime~main.6c916518.js",
+    "runtime~main.js.map": "/dater/static/js/runtime~main.6c916518.js.map",
+    "static/css/2.d0176e96.chunk.css": "/dater/static/css/2.d0176e96.chunk.css",
+    "static/js/2.2ea83d1d.chunk.js": "/dater/static/js/2.2ea83d1d.chunk.js",
+    "static/js/2.2ea83d1d.chunk.js.map": "/dater/static/js/2.2ea83d1d.chunk.js.map",
+    "index.html": "/dater/index.html",
+    "precache-manifest.62c5b493de7c406678784dfebadb97e3.js": "/dater/precache-manifest.62c5b493de7c406678784dfebadb97e3.js",
+    "service-worker.js": "/dater/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/dater/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.754038a1.chunk.css.map": "/dater/static/css/main.754038a1.chunk.css.map",
+    "static/media/Nietzsche.jpg": "/dater/static/media/Nietzsche.8df0e505.jpg",
+    "static/media/nietzsche.jpg": "/dater/static/media/nietzsche.8df0e505.jpg",
+    "static/media/sidebar-1.jpg": "/dater/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/dater/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/dater/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/dater/static/media/sidebar-4.fc9cb053.jpg"
+  }
+}
